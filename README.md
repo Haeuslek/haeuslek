@@ -19,6 +19,15 @@
 
 ---
 
+## Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haeuslek/Haeuslek/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haeuslek/Haeuslek/output/snake.svg" />
+  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/Haeuslek/Haeuslek/output/snake.svg" />
+</picture>
+
+---
+
 ## About
 
 I'm a student based in Switzerland with a passion for building things across the full stack — from low-level systems and Linux administration to iOS apps and cloud-native infrastructure. I like understanding how things work under the hood and automating everything that can be automated.
