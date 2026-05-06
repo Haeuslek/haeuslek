@@ -57,14 +57,4 @@ Currently studying IT with modules covering **Kubernetes & containerization (M16
 | Cooling | Corsair iCUE LINK TITAN 360 RX AIO |
 | Laptop | MacBook Pro M3 Pro · 36 GB Unified Memory |
 
----
-
-## 📫 Contact
-
-Feel free to reach out via GitHub issues or discussions on any of my repos.
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Haeuslek&color=blueviolet&style=flat-square)
-
 </div>
