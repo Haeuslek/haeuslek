@@ -30,9 +30,9 @@
 
 ## About
 
-I'm a student based in Switzerland with a passion for building things across the full stack — from low-level systems and Linux administration to iOS apps and cloud-native infrastructure. I like understanding how things work under the hood and automating everything that can be automated.
+I'm a student based in Switzerland with a passion for building things across the full stack - from low-level systems and Linux administration to iOS apps and cloud-native infrastructure. I like understanding how things work under the hood and automating everything that can be automated.
 
-Currently studying IT with modules covering **Kubernetes & containerization (M169)** and **Linux/backup server administration (M143)**.
+Currently studying IT.
 
 ---
 
