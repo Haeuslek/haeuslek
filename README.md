@@ -39,7 +39,7 @@ Currently studying IT.
 ## 🔧 Tech Stack
 
 **Languages**
-`Python` `Swift` `TypeScript` `JavaScript` `Bash`
+`Python` `Swift` `Golang/Go` `Bash`
 
 **Frontend**
 `Next.js` `React` `Tailwind CSS` `SwiftUI`
